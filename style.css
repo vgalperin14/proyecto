@@ -4,4 +4,10 @@ body {
 
 h1 {
     color: hotpink;
+    font-size: 3rem;
 }
+
+p {
+    color: sienna;
+}
+
